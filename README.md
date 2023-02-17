@@ -1,2 +1,2 @@
-# php-all
+# Developers team
 for PHP APP DEVELOPERS
